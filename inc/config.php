@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set("Asia/Karachi");
-$servername = "localhost";
-$username = "root";
+$servername = "phpdatabase.crdjj0huoxwe.eu-west-2.rds.amazonaws.com";
+$username = "admin";
 $password = "";
 $db = "sass";
 
